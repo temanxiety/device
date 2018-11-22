@@ -1,6 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [Артем Веселов](https://up.htmlacademy.ru/htmlcss/20/user/614383).
+* Студент: [Артем Веселов](https://htmlacademy.ru/htmlcss/profile/temaveselov).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
